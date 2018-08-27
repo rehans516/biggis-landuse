@@ -80,6 +80,14 @@
 
   <dependencies>
 
+    <!-- ==== Netty ========================== -->
+
+    <dependency>
+      <groupId>io.netty</groupId>
+      <artifactId>netty-all</artifactId>
+      <version>4.1.17.Final</version>
+    </dependency>
+
     <!-- ==== GEOTRELLIS ========================== -->
     <dependency>
       <groupId>org.locationtech.geotrellis</groupId>
